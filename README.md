@@ -1,2 +1,2 @@
 # proyectoTIC
-Sitio web para manejar el inventario de una droguería
+Sitio web para manejar el inventario de un de depósito de medicamentos.
