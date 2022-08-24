@@ -1,2 +1,2 @@
 # proyectoTIC
-Sitio web para manejar el inventario de un de depósito de medicamentos.
+Sitio web para manejar el inventario de un depósito de medicamentos.
